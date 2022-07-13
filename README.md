@@ -3,4 +3,4 @@
 A Weather App utilising OpenWeather API.
 
 ## Active Demo 
-https://tharunrast.github.io/WeatherApp/
+https://the-today-weather.netlify.app/
