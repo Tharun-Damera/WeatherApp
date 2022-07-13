@@ -1,6 +1,6 @@
 # WeatherApp
 
-A Weather App utilising OpenWeather API and Unsplash API.
+A Weather App utilising OpenWeather API.
 
 ## Active Demo 
 https://tharunrast.github.io/WeatherApp/
